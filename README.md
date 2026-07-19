@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @abdul-basit-dev
+-  🌐 Portfolio: https://abdul-basitshaih.github.io/abdul-basit-portfolio/
 - 🎓 BS Computer Science student at SZABIST University
 - 👀 I’m interested in Python projects, Data Analysis, HTML/CSS, and database applications
 - 🌱 I’m currently learning Excel and data analysis, with Java, DSA, and Git/GitHub next on my roadmap
