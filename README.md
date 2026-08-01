@@ -1,9 +1,16 @@
 - 👋 Hi, I’m @abdul-basit-dev
 -  🌐 Portfolio: https://abdul-basitshaih.github.io/abdul-basit-portfolio/
-- 🎓 BS Computer Science student at SZABIST University
-- 👀 I’m interested in Python projects, Data Analysis, HTML/CSS, and database applications
+- 🎓 BS Computer Science student at SZABIST University (batch 2024–2028)
+- 💼 IT Intern at Askari Bank Limited
+- Projects
+	•	University Database Management System — Java Swing + MySQL app for managing university records, built with a team of three
+	•	Bank Management System — JavaFX
+	•	Library Management System — C++
+	•	abdul-basit-portfolio — React + TypeScript + Vite, deployed via GitHub Pages
 - 🌱 I’m currently learning Excel and data analysis, with Java, DSA, and Git/GitHub next on my roadmap
 - 💞️ I’m looking to collaborate on beginner-friendly Python, web development, and data analysis projects
+- Background
+🎓 Cadet College Larkana alumnus (28th Batch, 2019–2024)
 - 📫 How to reach me https://www.linkedin.com/in/abdul-basit-shaikh-2203a42b7
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Cadet College Larkana graduate learning to code one discipline sprint at a time
